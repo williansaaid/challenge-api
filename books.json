@@ -1,0 +1,63 @@
+[
+  {
+    "name": "El Gran Gatsby",
+    "isbn": "978-0-7432-7356-5",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "name": "Cien años de soledad",
+    "isbn": "978-84-376-0494-7",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "name": "Matar a un ruiseñor",
+    "isbn": "978-84-9838-127-6",
+    "author": "Harper Lee"
+  },
+  { "name": "1984", "isbn": "978-84-670-0802-1", "author": "George Orwell" },
+  {
+    "name": "Don Quijote de la Mancha",
+    "isbn": "978-84-376-0393-3",
+    "author": "Miguel de Cervantes"
+  },
+  {
+    "name": "Orgullo y prejuicio",
+    "isbn": "978-84-670-1822-1",
+    "author": "Jane Austen"
+  },
+  {
+    "name": "Harry Potter y la piedra filosofal",
+    "isbn": "978-84-9838-201-3",
+    "author": "J.K. Rowling"
+  },
+  {
+    "name": "En busca del tiempo perdido",
+    "isbn": "978-84-375-0268-1",
+    "author": "Marcel Proust"
+  },
+  {
+    "name": "El Señor de los Anillos: La Comunidad del Anillo",
+    "isbn": "978-84-450-7659-8",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "name": "Crónica de una muerte anunciada",
+    "isbn": "978-84-226-1764-6",
+    "author": "Gabriel García Márquez"
+  },
+  {
+    "name": "El Gran Willy",
+    "isbn": "978-0-7432-7356-9",
+    "author": "Willians Jimenez"
+  },
+  {
+    "name": "El Gran Willy",
+    "isbn": "978-0-7432-7356-9",
+    "author": "Willians Jimenez"
+  },
+  {
+    "name": "El Gran Willy",
+    "isbn": "978-0-7432-7356-9",
+    "author": "Willians Jimenez"
+  }
+]
